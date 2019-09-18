@@ -1,0 +1,11 @@
+Section 13:                  Cypress Framework Part 5- Building npm Scripts and Integration to Jenkins
+
+
+Title                              Name of Title
+
+Rec 07-20-19 1              Understanding Scripting commands in Package.json file for CI Integration
+Rec 07-20-19 2              Running Multiple specs file on fly from cypress Scripting commands
+jenkind                     Introduction to Jenkins
+Rec 07-20-19 4pro           Integrating Cypress framework into Jenkins CI tool
+
+

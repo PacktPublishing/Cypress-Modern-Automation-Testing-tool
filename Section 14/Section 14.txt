@@ -1,0 +1,11 @@
+Section 14:                         XHR testing with Cypress
+
+Title                              Name of Title
+
+Rec 07-22-19 1                       Introduction to XHR testing and how it helps in writing edge test cases
+Rec 07-22-19 2pro                    Listening to GET network request call with route command
+Rec07-22-19 34                       Manipulating POST  network request call with route command
+Rec 07-22-19 6                       Mocking API calls with Cypress route command
+Rec 07-23-19 1-7pro                  Example Demonstrating on Mocking API with stub response using Cypress
+Note                                 Important Note
+lastshotagain                        Handling API call directly with out involving browser with cypress

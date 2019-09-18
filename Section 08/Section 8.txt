@@ -1,0 +1,9 @@
+Sectio 8:                     Understand limitations of Frames & Child windows in Cypress                    
+
+Title                              Name of Title
+
+Rec 07-16-19 6                Handling Child windows using Cypress
+Rec 07-16-19 8pro             Limitations of Frames with Cypress
+Code                          code download
+Cypress                       Cypress Concepts Cheat Sheet download
+

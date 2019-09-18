@@ -1,0 +1,11 @@
+Section 3:              Introduction to Cypress Test Runner and command line features
+
+
+Title                              Name of Title
+
+
+Rec 07-13-19 3           What is Cypress TestRunner
+Rec 07-13-19 4           Build Cypress Basic test and run from test Runner   
+Rec 07-13-19 5           Running Cypress tests in supported browsers
+Rec 07-13-19 6           Exploring the Cypress project Framework structure
+

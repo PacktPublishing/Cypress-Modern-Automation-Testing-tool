@@ -1,0 +1,13 @@
+Section 7 :               Advance Automation to handling Alerts,popups, Child Windows using Cypress-Jquery
+
+
+Title                              Name of Title
+
+Rec 07-15-19 910 pro          How Cypress auto handles Alerts in web Apps
+rec 07-15-19 11 pro           Handling Child tab with combination of Cypress & Jquery commands
+Rec 07-15-19 12               Navigating browser controls using Cypress
+Code1                         code download
+Rec 07-16-19 3                Handling Web tables with Cypress using each command
+Code2                         code download
+Rec 07-16-19 rpro             Handling Mouse hover popus using Cypress
+

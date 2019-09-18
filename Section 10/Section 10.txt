@@ -1,0 +1,9 @@
+Section 10 :               Cypress Framework Part 2-  Page object Design & Test Parameterization      
+
+Title                              Name of Title
+
+Rec 07-17-19 7             Parameterizing the test Data from Json files using each command
+Rec 07-17-19 8             Test Debugging and Pause with Cypress
+Rec 07-18-19 1             Implementing Page object Design pattern into Cypress
+Rec 07-18-19 2             Modifying existing tests into Page object pattern as per Cypress standards
+

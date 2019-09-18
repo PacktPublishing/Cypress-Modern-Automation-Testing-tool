@@ -1,0 +1,14 @@
+Section 5 :                   Deep diving into Cypress Commands and its ASynchronous Nature
+
+Title                                   Name for Title
+ 
+Rec 07-14-19 1                Understanding get and find commands with Cypress
+Rec 07-14-19 2                Grabbing the text for validations using cypress text command
+Rec 07-14-19 5                Cypress ASynchronous nature and its promise handling
+Rec 07-14-19 6                Understanding the difference between Jquery methods and cypress commands
+Rec 07-14-19 7                Handing Async promises with Cypress
+Code Download1                code download
+Rec 07-14-19 8                Completing the Practise test with all necessary validations
+Code Download2                code download
+
+ 

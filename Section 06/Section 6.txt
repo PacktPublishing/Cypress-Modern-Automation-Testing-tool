@@ -1,0 +1,14 @@
+Section 6:                Handling Web Controls UI using Cypress   
+
+Title                              Name of Title
+
+Rec 07-15-19 2            How to verify and automate check boxes with Cypress
+Rec 07-15-19 4            Handling static dropdowns using select command with Cypress
+Rec 07-15-19 5            Handling Dynamic dropdowns with each command Iteration
+Rec 07-15-19 6            Handling Visible and invisible elements using Assertions in Cypress
+Code                      Code Download
+
+
+
+
+ 

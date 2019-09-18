@@ -1,0 +1,11 @@
+Important Note
+In last 3 lectures we understood the Power of using CYpress in testing both Web (Front end) + API/XHR (Back End calls) for testing Edge case Scenarios .
+
+
+
+In the next final Lecture,  I will show how to do pure API testing (basic) with Cypress without depending on Web(Front end) part. Generally it is not recommended to use Cypress if your goal is anywhere on Non Web Automation.
+
+But you may need at times to call external third Party Services which are not tied up to your Web, So I have added one basic  video  to show how to perform only API testing using Cypress for knowledge Purpose.
+
+
+

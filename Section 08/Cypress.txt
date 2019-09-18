@@ -1,0 +1,6 @@
+Cypress Concepts Cheat Sheet download
+Please download Cypress Cheat Sheet (Excel) which we are maintaining from beginning of the course from resources
+
+Resources for this lecture
+
+

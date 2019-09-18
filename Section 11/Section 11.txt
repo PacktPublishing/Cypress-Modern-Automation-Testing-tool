@@ -1,0 +1,14 @@
+Section 11:             Cypress Framework Part 3- Configuration properties & Environmental variables
+
+Title                              Name of Title
+
+Rec 07-18-19 3                 Implementing global configuration changes to Cypress framework
+rec07-18-19 3                  Completing End to end test execution of the Business flow (07-18-3.2
+Rec 07-18-19 67pro             Implementing the Sum of products functionality with Cypress-Java script
+07-18-19 last                  Practise exercise continuation on product sum values with Javascript Methods
+Rec 07-19-19 2pro              Importance of environmental variables in CYpress framework
+Rec 07-19-19 3                 Setting env variables through command line arguments
+
+
+
+ 

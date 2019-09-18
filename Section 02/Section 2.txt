@@ -1,0 +1,8 @@
+Section 2:                Cypress Installation & project Setup
+
+
+Title                              Name of Title
+
+Rec 07-13-19 1                 Install Node.js and Visual studio code
+Rec 07-13-19 2                 Generate Package.json and get Cypress Dependencies
+                

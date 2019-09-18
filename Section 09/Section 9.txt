@@ -1,0 +1,11 @@
+Section 9:                 Cypress Framework Part 1- Understanding Fixtures and Custom commands
+
+Title                              Name of Title
+
+Rec 07-17-19 2 pro          Agenda of framework topics and starting with test building
+Code                        Where to find code files for all framework topics?
+Rec 07-17-19 3              Understand how fixtures work in driving data
+Rec 07-17-19 4              Validating attribute properties and their behaviour with cypress assertions
+Rec 07-17-19 6              Building customized Cypress commands for reusing the code
+
+

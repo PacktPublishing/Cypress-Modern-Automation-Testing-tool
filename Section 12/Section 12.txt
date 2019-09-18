@@ -1,0 +1,9 @@
+Section 12 :                     Cypress Framework Part 4- Dashboard feature with Video recording & Screenshots               
+
+Title                              Name of Title
+
+Rec 07-19-19 5pro                Exploring Cypress Dashboard and its feature for framework development
+Rec 07-19-19 6                   Monitoring Test Execution Videos& Screenshots through Cypress dashboard
+Rec 07-19-19 7                   Generating Mocha Awesome reports for Cypress execution
+
+

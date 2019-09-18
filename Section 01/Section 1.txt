@@ -1,0 +1,10 @@
+Section 1 :                       Introduction to Cypress
+
+
+Title                              Name of Title
+
+1stvideo                           What is Cypress? And why it is future of Automation
+cypressintro2                      Understand Cypress Architecture and its benefits
+syllabus                           Course syllabus walkthrough
+Reference Doc                      Reference document Notes
+
