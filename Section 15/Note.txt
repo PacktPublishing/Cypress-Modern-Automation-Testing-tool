@@ -1,25 +1,11 @@
-How to showcase your Cypress knowledge
-Cypress  is one of the hottest Automation requirement in 2019 Job Market and there are scarcity of people with this skill.
+Important Note
+In last 3 lectures we understood the Power of using CYpress in testing both Web (Front end) + API/XHR (Back End calls) for testing Edge case Scenarios .
 
 
 
-WIth the Knowledge what you have gained from this course, It is just a cake walk to crack any Cypress Interview.
+In the next final Lecture,  I will show how to do pure API testing (basic) with Cypress without depending on Web(Front end) part. Generally it is not recommended to use Cypress if your goal is anywhere on Non Web Automation.
 
-
-
-So how can recruiter know that you have real Cypress knowledge is Biggest Question.
-
-
-
-***********************************************************************************************There are Hundreds of QA Recruiters (especially from US, India) in my Linkedin Network. So Complete the course 100% and Udemy will honour you with Certificate of Completion on Cypress.  Post the certificate in your Linkedin and Tag me.
-
-
-
-That's it!! All my network can view this post and if luck favors, You may get a call with Great Salary offer.
-
-
-
-You can find my linkedIn details on my Udemy profile page under Image icon
+But you may need at times to call external third Party Services which are not tied up to your Web, So I have added one basic  video  to show how to perform only API testing using Cypress for knowledge Purpose.
 
 
 
